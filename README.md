@@ -32,7 +32,7 @@ python RL_QL_StraightTreasureGame.py train --epsilon=0.9 --alpha=0.1 --gamma=0.9
 **2. RL_QLandSar_maze.py**  
 Environment : a maze (maze_env.py)(From Morvan)  
 Algorithms used : QLearning or Sarsa
-```
+```python
 python RL_QLandSar_maze.py train --method=qlearning 
 python RL_QLandSar_maze.py train --method=sarsa 
 ```
@@ -47,7 +47,7 @@ python run_this_m.py train --method=sarsa_lam
 **4. DQN and DQN_run.py**  
 Environment : a maze (maze1_env.py) (From Morvan)  
 Algorithms used : QLearning or Sarsa or Sarsa(lambda)
-```
+```python
 python run_this_m.py train --max_episodes=500
 ```
 ## Reference
@@ -55,9 +55,4 @@ python run_this_m.py train --max_episodes=500
 
 [Morvan's github](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow/tree/master/contents)
 
-[Q-Learning](https://blog.csdn.net/itplus/article/details/9361915), 
-[Sarsa](https://zhuanlan.zhihu.com/p/24860793),
-[Sarsa(lambda)](https://zhuanlan.zhihu.com/p/74346644),
-[DQN](https://cloud.tencent.com/developer/article/1004953).
-
-![hhh](2021-02-23-22-03-59.png)
+[Q-Learning](https://blog.csdn.net/itplus/article/details/9361915), [Sarsa](https://zhuanlan.zhihu.com/p/24860793), [Sarsa(lambda)](https://zhuanlan.zhihu.com/p/74346644), [DQN](https://cloud.tencent.com/developer/article/1004953).
