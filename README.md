@@ -48,7 +48,7 @@ python run_this_m.py train --method=sarsa_lam
 Enviroment : a maze (maze1_env.py) (From Morvan)  
 Algorithms used : QLearning or Sarsa or Sarsa(lambda)
 ```
-python run_this_m.py train--max_episodes=500
+python run_this_m.py train --max_episodes=500
 ```
 ## Reference
 [Morvan](https://mofanpy.com/)
