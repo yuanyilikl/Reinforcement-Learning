@@ -58,4 +58,4 @@ python run_this_m.py train --max_episodes=500
 [Q-Learning](https://blog.csdn.net/itplus/article/details/9361915), 
 [Sarsa](https://zhuanlan.zhihu.com/p/24860793),
 [Sarsa(lambda)](https://zhuanlan.zhihu.com/p/74346644),
-[DQN](https://cloud.tencent.com/developer/article/1004953)
+[DQN](https://cloud.tencent.com/developer/article/1004953).
